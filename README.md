@@ -6,3 +6,7 @@ Some description of the project. Edited
 
 Adding Subheading
 
+## Local development
+
+1. Open index.html in the browser
+
